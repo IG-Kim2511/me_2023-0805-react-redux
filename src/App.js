@@ -1,9 +1,14 @@
+import { Counter } from "./redux/Counter";
 
 
 function App() {
   return (
     <div className="App">
-      sdfssdf
+      
+    
+      redux site example
+
+      <Counter/>
     </div>
   );
 }
